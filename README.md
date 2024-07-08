@@ -1,5 +1,5 @@
 # Teste iCasei: Front-End
-Desenvolver uma aplicação HTML5.
+Desenvolver uma aplicação HTML5...
 
 ## Instruções
 - Siga as especificações abaixo.
